@@ -1,1 +1,1 @@
-# real_estate_price_prediction_model
+# real estate price prediction model
