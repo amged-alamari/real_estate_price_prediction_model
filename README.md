@@ -59,7 +59,6 @@ Accurately predict property prices based on features in the Bengaluru housing da
 - Matplotlib
 - Scikit-learn
 - GridSearchCV
-- (Optional) Streamlit or Flask
 
 ---
 
