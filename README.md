@@ -62,5 +62,3 @@ Accurately predict property prices based on features in the Bengaluru housing da
 
 ---
 
-## 📁 Repository Structure
-
